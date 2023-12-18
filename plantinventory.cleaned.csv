@@ -1,0 +1,363 @@
+﻿PLANTID,UNITS,CATEGORY,ITEM,TYPE,POTTED (Y/N),MEDIUM,SIZE,BOUGHT PRICE, PROPOSED PRICE 
+1,1,PLANT,CALATHEA,WHITE FUSION,Y,unknown soil (vendor), MEDIUM ,$28.00 ,$40.00 
+2,1,PLANT,GOLDFISH,GOLDFISH,Y,unknown soil (vendor), MEDIUM ,,$35.00 
+3,1,PLANT,POTHOS,BALTIC BLUE,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,,$35.00 
+4,1,PLANT,MONSTERA,PERU,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$20.00 ,$30.00 
+5,1,PLANT,TRADESCANTIA,PURPLE ,Y,LECCA, MEDIUM , $-   ,$20.00 
+6,1,PLANT,ALOCASIA,RED SECRET,Y,PON, SMALL ,$17.00 ,$20.00 
+7,2,PLANT,MONSTERA,ALBO,Y,LECCA, SMALL ,$75.00 ,$75.00 
+8,1,PLANT,ALOCASIA,LONGILOBA,Y,LECCA, MEDIUM ,,$30.00 
+9,1,PLANT,SINGONIUM,ALBO,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$40.00 ,$50.00 
+10,1,PLANT,ALOCASIA,,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL ,$15.00 ,$20.00 
+11,3,PLANT,ALOCASIA,STINGRAY,Y,LECCA, SMALL , $-   ,$15.00 
+12,1,PLANT,ALOCASIA,RED SECRET,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL , $-   ,$10.00 
+13,1,PLANT,NIGHT-BLOOMING JASMINE,NIGHT-BLOOMING JASMINE,Y,PON, LARGE ,$20.00 ,$40.00 
+14,1,PLANT,NIGHT-BLOOMING JASMINE,NIGHT-BLOOMING JASMINE,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM , $-   ,$40.00 
+15,1,PLANT,PITCHER PLANT,PITCHER PLANT,Y,MOSS, SMALL ,$10.00 ,$20.00 
+16,1,PLANT,PHILODENDRON,WHITE KNIGHT,N,WATER (PROPOGATION), MEDIUM ,$20.00 ,$30.00 
+17,1,PLANT,TRADESCANTIA,GREEN,Y,LECCA, SMALL , $-   ,$10.00 
+18,3,PLANT,SINGONIUM,ALBO,N,WATER (PROPOGATION), SMALL , $-   ,$15.00 
+19,1,PLANT,PHILODENDRON,SILVER SWORD,Y,LECCA, MEDIUM ,$20.00 ,$30.00 
+20,1,PLANT,POTHOS,EN'JOI,Y,LECCA, MEDIUM ,$20.00 ,$30.00 
+21,1,PLANT,MONSTERA,THAI CONSTELLATION,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$50.00 ,$100.00 
+22,1,PLANT,POTHOS,GLOBAL GREEN,Y,LECCA, SMALL ,$5.00 ,$20.00 
+23,2,PLANT,PHILODENDRON,WHITE WIZARD,Y,LECCA, SMALL ,$75.00 ,$50.00 
+24,1,PLANT,PHILODENDRON,WHITE KNIGHT,N,WATER (PROPOGATION), SMALL , $-   ,$30.00 
+25,1,PLANT,POTHOS,BALTIC BLUE,Y,LECCA, SMALL , $-   ,$20.00 
+26,1,PLANT,MONSTERA,SWISS CHEESE,Y,LECCA, SMALL , $-   ,$10.00 
+27,1,PLANT,BEGONIA,FEROX,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL ,$10.00 ,$15.00 
+28,1,PLANT,BEGONIA,FEROX,Y,PON, SMALL , $-   ,$15.00 
+29,1,PLANT,VICK'S PLANT,VICK'S PLANT,Y,PON, SMALL ,$20.00 ,$15.00 
+30,1,PLANT,PEPPEROMIA,RAINDROP,N,WATER (PROPOGATION), SMALL , $-   ,$10.00 
+31,1,PLANT,NIGHT-BLOOMING JASMINE,NIGHT-BLOOMING JASMINE,N,WATER (PROPOGATION), LARGE , $-   ,$20.00 
+32,1,PLANT,VICK'S PLANT,VICK'S PLANT,Y,LECCA, LARGE , $-   ,$15.00 
+33,1,PLANT,VICK'S PLANT,VICK'S PLANT,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE , $-   ,$15.00 
+34,1,PLANT,PHILODENDRON,SILVER SWORD,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE , $-   ,$15.00 
+35,1,PLANT,ALOCASIA,STINGRAY,Y,LECCA, SMALL ,$15.00 ,$15.00 
+36,1,PLANT,PEPPEROMIA,RAINDROP,Y,LECCA, SMALL , $-   ,$10.00 
+37,1,PLANT,PHILODENDRON,FLORIDA GREEN,Y,LECCA, LARGE ,$20.00 ,$35.00 
+38,3,PLANT,TRADESCANTIA,PINK PANTHER,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$20.00 ,$10.00 
+39,1,PLANT,MONSTERA,DELICIOSA,Y,PON, SMALL , $-   ,$10.00 
+40,1,PLANT,MONSTERA,DELICIOSA,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE ,$50.00 ,$100.00 
+41,1,PLANT,MONSTERA,DELICIOSA,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE , $-   ,$25.00 
+42,1,PLANT,MONSTERA,DELICIOSA,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE ,$9.00 ,$25.00 
+43,1,PLANT,MONSTERA,TETRISPERMA,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$10.00 ,$25.00 
+44,1,PLANT,PHILODENDRON,RED CONGO,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$15.00 ,$25.00 
+45,1,PLANT,MONSTERA,DELICIOSA,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM , $-   ,$15.00 
+46,1,PLANT,POTHOS,GLOBAL GREEN,Y,LECCA, MEDIUM , $-   ,$20.00 
+47,2,PLANT,SNAKE PLANT,SNAKE PLANT,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM , $-   ,$20.00 
+48,2,PLANT,PEACE LILY,DOMINO,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$20.00 ,$35.00 
+49,1,PLANT,POTHOS,SNOW QUEEN,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL ,$20.00 ,$10.00 
+50,1,PLANT,POTHOS,MARBLE QUEEN,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL ,$20.00 ,$10.00 
+51,1,PLANT,PHILODENDRON,FLORIDA GREEN,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE , $-   ,$35.00 
+52,1,PLANT,FICUS,VARIGATED,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$20.00 ,$35.00 
+53,1,PLANT,NIGHT-BLOOMING ORCHID,QUEEN OF THE NIGHT,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE ,$20.00 ,$40.00 
+54,1,PLANT,NIGHT-BLOOMING ORCHID,QUEEN OF THE NIGHT,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE ,$40.00 ,$60.00 
+55,2,PLANT,POTHOS,SNOW QUEEN,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM , $-   ,$20.00 
+56,1,PLANT,POTHOS,MOONLIGHT,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$15.00 ,$25.00 
+57,1,PLANT,POTHOS,EXOTICA,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE ,$20.00 ,$40.00 
+58,1,PLANT,POTHOS,UNKNOWN,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$15.00 ,$25.00 
+59,1,PLANT,PEPPEROMIA,RAINDROP,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL , $-   ,$15.00 
+60,1,PLANT,NIGHT-BLOOMING ORCHID,QUEEN OF THE NIGHT,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL , $-   ,$15.00 
+61,1,PLANT,CACTUS,UNKNOWN,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL ,$5.00 ,$10.00 
+62,1,PLANT,CACTUS,BARREL,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE ,$15.00 ,$30.00 
+63,1,PLANT,CACTUS,BARREL,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL , $-   ,$10.00 
+64,1,PLANT,CACTUS,UNKNOWN,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL ,,$10.00 
+65,1,PLANT,CACTUS,UNKNOWN,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$45.00 ,$70.00 
+66,1,PLANT,CACTUS,UNKNOWN,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$20.00 ,$35.00 
+67,1,PLANT,CACTUS,UNKNOWN,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL ,$5.00 ,$10.00 
+68,1,PLANT,POTHOS,MARBLE QUEEN,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM , $-   ,$20.00 
+69,1,PLANT,STRING OF BANANAS,STRING OF BANANAS,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE ,$20.00 ,$40.00 
+70,1,PLANT,GOLDFISH,GOLDFISH,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL , $-   ,$15.00 
+71,1,PLANT,POTHOS,EN'JOI,Y,SOIL (FOX FARMS PERILYTE BARK), SMALL , $-   ,$10.00 
+72,1,PLANT,CACTUS,CHRISTMAS CACTUS,Y,SOIL (FOX FARMS PERILYTE BARK), MEDIUM ,$20.00 ,$35.00 
+73,1,PLANT,MONSTERA,SWISS CHEESE,Y,SOIL (FOX FARMS PERILYTE BARK), LARGE ,$30.00 ,$55.00 
+74,,,,,,,,,
+75,,,,,,,,,
+76,,,,,,,,,
+77,,,,,,,,,
+78,,,,,,,,,
+79,,,,,,,,,
+80,,,,,,,,,
+81,,,,,,,,,
+82,,,,,,,,,
+83,,,,,,,,,
+84,,,,,,,,,
+85,,,,,,,,,
+86,,,,,,,,,
+87,,,,,,,,,
+88,,,,,,,,,
+89,,,,,,,,,
+90,,,,,,,,,
+91,,,,,,,,,
+92,,,,,,,,,
+93,,,,,,,,,
+94,,,,,,,,,
+95,,,,,,,,,
+96,,,,,,,,,
+97,,,,,,,,,
+98,,,,,,,,,
+99,,,,,,,,,
+100,,,,,,,,,
+101,,,,,,,,,
+102,,,,,,,,,
+103,,,,,,,,,
+104,,,,,,,,,
+105,,,,,,,,,
+106,,,,,,,,,
+107,,,,,,,,,
+108,,,,,,,,,
+109,,,,,,,,,
+110,,,,,,,,,
+111,,,,,,,,,
+112,,,,,,,,,
+113,,,,,,,,,
+114,,,,,,,,,
+115,,,,,,,,,
+116,,,,,,,,,
+117,,,,,,,,,
+118,,,,,,,,,
+119,,,,,,,,,
+120,,,,,,,,,
+121,,,,,,,,,
+122,,,,,,,,,
+123,,,,,,,,,
+124,,,,,,,,,
+125,,,,,,,,,
+126,,,,,,,,,
+127,,,,,,,,,
+128,,,,,,,,,
+129,,,,,,,,,
+130,,,,,,,,,
+131,,,,,,,,,
+132,,,,,,,,,
+133,,,,,,,,,
+134,,,,,,,,,
+135,,,,,,,,,
+136,,,,,,,,,
+137,,,,,,,,,
+138,,,,,,,,,
+139,,,,,,,,,
+140,,,,,,,,,
+141,,,,,,,,,
+142,,,,,,,,,
+143,,,,,,,,,
+144,,,,,,,,,
+145,,,,,,,,,
+146,,,,,,,,,
+147,,,,,,,,,
+148,,,,,,,,,
+149,,,,,,,,,
+150,,,,,,,,,
+151,,,,,,,,,
+152,,,,,,,,,
+153,,,,,,,,,
+154,,,,,,,,,
+155,,,,,,,,,
+156,,,,,,,,,
+157,,,,,,,,,
+158,,,,,,,,,
+159,,,,,,,,,
+160,,,,,,,,,
+161,,,,,,,,,
+162,,,,,,,,,
+163,,,,,,,,,
+164,,,,,,,,,
+165,,,,,,,,,
+166,,,,,,,,,
+167,,,,,,,,,
+168,,,,,,,,,
+169,,,,,,,,,
+170,,,,,,,,,
+171,,,,,,,,,
+172,,,,,,,,,
+173,,,,,,,,,
+174,,,,,,,,,
+175,,,,,,,,,
+176,,,,,,,,,
+177,,,,,,,,,
+178,,,,,,,,,
+179,,,,,,,,,
+180,,,,,,,,,
+181,,,,,,,,,
+182,,,,,,,,,
+183,,,,,,,,,
+184,,,,,,,,,
+185,,,,,,,,,
+186,,,,,,,,,
+187,,,,,,,,,
+188,,,,,,,,,
+189,,,,,,,,,
+190,,,,,,,,,
+191,,,,,,,,,
+192,,,,,,,,,
+193,,,,,,,,,
+194,,,,,,,,,
+195,,,,,,,,,
+196,,,,,,,,,
+197,,,,,,,,,
+198,,,,,,,,,
+199,,,,,,,,,
+200,,,,,,,,,
+201,,,,,,,,,
+202,,,,,,,,,
+203,,,,,,,,,
+204,,,,,,,,,
+205,,,,,,,,,
+206,,,,,,,,,
+207,,,,,,,,,
+208,,,,,,,,,
+209,,,,,,,,,
+210,,,,,,,,,
+211,,,,,,,,,
+212,,,,,,,,,
+213,,,,,,,,,
+214,,,,,,,,,
+215,,,,,,,,,
+216,,,,,,,,,
+217,,,,,,,,,
+218,,,,,,,,,
+219,,,,,,,,,
+220,,,,,,,,,
+221,,,,,,,,,
+222,,,,,,,,,
+223,,,,,,,,,
+224,,,,,,,,,
+225,,,,,,,,,
+226,,,,,,,,,
+227,,,,,,,,,
+228,,,,,,,,,
+229,,,,,,,,,
+230,,,,,,,,,
+231,,,,,,,,,
+232,,,,,,,,,
+233,,,,,,,,,
+234,,,,,,,,,
+235,,,,,,,,,
+236,,,,,,,,,
+237,,,,,,,,,
+238,,,,,,,,,
+239,,,,,,,,,
+240,,,,,,,,,
+241,,,,,,,,,
+242,,,,,,,,,
+243,,,,,,,,,
+244,,,,,,,,,
+245,,,,,,,,,
+246,,,,,,,,,
+247,,,,,,,,,
+248,,,,,,,,,
+249,,,,,,,,,
+250,,,,,,,,,
+251,,,,,,,,,
+252,,,,,,,,,
+253,,,,,,,,,
+254,,,,,,,,,
+255,,,,,,,,,
+256,,,,,,,,,
+257,,,,,,,,,
+258,,,,,,,,,
+259,,,,,,,,,
+260,,,,,,,,,
+261,,,,,,,,,
+262,,,,,,,,,
+263,,,,,,,,,
+264,,,,,,,,,
+265,,,,,,,,,
+266,,,,,,,,,
+267,,,,,,,,,
+268,,,,,,,,,
+269,,,,,,,,,
+270,,,,,,,,,
+271,,,,,,,,,
+272,,,,,,,,,
+273,,,,,,,,,
+274,,,,,,,,,
+275,,,,,,,,,
+276,,,,,,,,,
+277,,,,,,,,,
+278,,,,,,,,,
+279,,,,,,,,,
+280,,,,,,,,,
+281,,,,,,,,,
+282,,,,,,,,,
+283,,,,,,,,,
+284,,,,,,,,,
+285,,,,,,,,,
+286,,,,,,,,,
+287,,,,,,,,,
+288,,,,,,,,,
+289,,,,,,,,,
+290,,,,,,,,,
+291,,,,,,,,,
+292,,,,,,,,,
+293,,,,,,,,,
+294,,,,,,,,,
+295,,,,,,,,,
+296,,,,,,,,,
+297,,,,,,,,,
+298,,,,,,,,,
+299,,,,,,,,,
+300,,,,,,,,,
+301,,,,,,,,,
+302,,,,,,,,,
+303,,,,,,,,,
+304,,,,,,,,,
+305,,,,,,,,,
+306,,,,,,,,,
+307,,,,,,,,,
+308,,,,,,,,,
+309,,,,,,,,,
+310,,,,,,,,,
+311,,,,,,,,,
+312,,,,,,,,,
+313,,,,,,,,,
+314,,,,,,,,,
+315,,,,,,,,,
+316,,,,,,,,,
+317,,,,,,,,,
+318,,,,,,,,,
+319,,,,,,,,,
+320,,,,,,,,,
+321,,,,,,,,,
+322,,,,,,,,,
+323,,,,,,,,,
+324,,,,,,,,,
+325,,,,,,,,,
+326,,,,,,,,,
+327,,,,,,,,,
+328,,,,,,,,,
+329,,,,,,,,,
+330,,,,,,,,,
+331,,,,,,,,,
+332,,,,,,,,,
+333,,,,,,,,,
+334,,,,,,,,,
+335,,,,,,,,,
+336,,,,,,,,,
+337,,,,,,,,,
+338,,,,,,,,,
+339,,,,,,,,,
+340,,,,,,,,,
+341,,,,,,,,,
+342,,,,,,,,,
+343,,,,,,,,,
+344,,,,,,,,,
+345,,,,,,,,,
+346,,,,,,,,,
+347,,,,,,,,,
+348,,,,,,,,,
+349,,,,,,,,,
+350,,,,,,,,,
+351,,,,,,,,,
+352,,,,,,,,,
+353,,,,,,,,,
+354,,,,,,,,,
+355,,,,,,,,,
+356,,,,,,,,,
+357,,,,,,,,,
+358,,,,,,,,,
+359,,,,,,,,,
+360,,,,,,,,,
+361,,,,,,,,,
+362,,,,,,,,,
