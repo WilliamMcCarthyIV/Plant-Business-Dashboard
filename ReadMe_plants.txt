@@ -43,7 +43,7 @@ Installation
 Database Structure
 Tables
 
-The database includes tables with information on customers, sales, and inventory. Details on table structures are available in the SQL schema.
+The database includes tables with information on customers, sales, and inventory. Details on table structures are available in the SQL schema. Figma was used to design the template wallpaper behind the visualizations made with Power BI.
 Relations
 
 The relationships between tables are crucial for data coherence. Refer to the schema documentation for insights into how tables are connected.
